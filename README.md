@@ -1,6 +1,6 @@
 # Awesome Game Jam Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Ko-fi](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://ko-fi.com/A8724HM4) [![Twitter](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/nomaki)
 
-![Banner](/img/awesome-game-jam-banner.jpg)
+![Banner](/awesome-game-jam-banner.jpg)
 
 > A curated list of awesome assets, guides and resources for participating in a game jam.
 
@@ -39,9 +39,9 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 * [Share on LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/neromaki/awesome-game-jam-resources&title=Awesome%20Game%20Jam%20Resources&summary=&source=)
 
 
-## Donate :heart:
+## Donate
 
-And finally, if you appreciate this list and find it useful, please consider helping to support the on-going maintance by donating:
+If you appreciate this list and find it useful, please consider helping to support the on-going maintance by donating:
 
 [![Support](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://ko-fi.com/A8724HM4)
 
@@ -49,4 +49,5 @@ And finally, if you appreciate this list and find it useful, please consider hel
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Shaun Wall](https://twitter.com/nomaki) has waived all copyright and related or neighboring rights to this work.
+
+_List structure adapted from [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources)_
