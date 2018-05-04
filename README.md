@@ -1,6 +1,6 @@
 # Awesome Game Jam Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Ko-fi](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://ko-fi.com/A8724HM4) [![Twitter](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/nomaki)
 
-![Banner](/awesome-game-jam-banner.jpg)
+![Banner](/awesome-game-jam-resources-banner.jpg)
 
 > A curated list of awesome assets, guides and resources for participating in a game jam.
 
