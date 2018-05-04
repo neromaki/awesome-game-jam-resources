@@ -4,7 +4,7 @@
 
 > A curated list of awesome assets, guides and resources for participating in a game jam.
 
-I try my best to maintain this repository and keep it up-to-date but if you spot a broken link or a resource which isn't listed, please, feel free to make a pull request.
+If you spot a broken link, or know of a resource which would benefit the list, please, feel free to make a pull request.
 
 ## Table of Contents
 
